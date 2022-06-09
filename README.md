@@ -8,5 +8,5 @@
 -   [x] Wireframes
 -   [x] Visueel ontwerp (design)
 -   [ ] Onderzoek testen met doelgroep
--   [ ] Vertaling van visueel ontwerp naar prototype
+-   [x] Vertaling van visueel ontwerp naar prototype
 -   [ ] Presentatie
