@@ -5,7 +5,7 @@
 -   [x] Userstories
 -   [ ] Moodboard
 -   [x] Styleboard
--   [ ] Wireframes
+-   [x] Wireframes
 -   [x] Visueel ontwerp (design)
 -   [ ] Onderzoek testen met doelgroep
 -   [ ] Vertaling van visueel ontwerp naar prototype
