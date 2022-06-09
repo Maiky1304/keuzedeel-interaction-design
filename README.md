@@ -3,7 +3,7 @@
 -   [ ] Onderzoek klant & product
 -   [x] Persona
 -   [x] Userstories
--   [ ] Moodboard
+-   [x] Moodboard
 -   [x] Styleboard
 -   [x] Wireframes
 -   [x] Visueel ontwerp (design)
