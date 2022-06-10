@@ -1,6 +1,6 @@
 # Checklist
 
--   [ ] Onderzoek klant & product
+-   [x] Onderzoek klant & product
 -   [x] Persona
 -   [x] Userstories
 -   [x] Moodboard
